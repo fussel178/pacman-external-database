@@ -1,0 +1,8 @@
+# downloaded packages
+/packages
+
+# temporary database directory
+/db
+
+# generated pacman configuration
+pacman.conf
